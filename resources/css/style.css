@@ -77,7 +77,7 @@ nav li {
     margin-right: 20px;
 }
 
-@media screen and (max-width: 715px) {
+@media (max-width: 715px) {
     header {
         height: 200px;
     } 
