@@ -50,7 +50,7 @@ header h1 {
 }
 
 header .logo a {
-    background-image: url("../resources/images/transparent_logo.PNG");
+    background-image: url("transparent_logo.png");
     background-size: 80px;
     background-repeat: no-repeat;
     display: inline-block;
