@@ -43,7 +43,7 @@ header h1 {
 }
 
 .testimonial {
-    background-image: linear-gradient(rgba(55,0,111,0.8),rgba(55,0,111,0.8)),url('resources/images/founders.jpg');
+    background-image: url('../images/founders.jpg');
     background-position: center;
     background-size: 150%;
     height: 250px;
